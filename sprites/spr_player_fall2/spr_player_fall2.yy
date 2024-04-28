@@ -2,10 +2,10 @@
   "$GMSprite":"",
   "%Name":"spr_player_fall2",
   "bboxMode":0,
-  "bbox_bottom":94,
-  "bbox_left":9,
-  "bbox_right":84,
-  "bbox_top":24,
+  "bbox_bottom":93,
+  "bbox_left":14,
+  "bbox_right":81,
+  "bbox_top":28,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -13,8 +13,6 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"df871b40-3f3a-43ef-97eb-fec7453239ba","name":"df871b40-3f3a-43ef-97eb-fec7453239ba","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"7d18dcdb-3489-44d3-98f1-2aee16b4de3d","name":"7d18dcdb-3489-44d3-98f1-2aee16b4de3d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"a8a4d65b-0a7d-4351-8913-e34cbc6c73b7","name":"a8a4d65b-0a7d-4351-8913-e34cbc6c73b7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -51,7 +49,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":3.0,
+    "length":1.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -73,12 +71,6 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"df871b40-3f3a-43ef-97eb-fec7453239ba","path":"sprites/spr_player_fall2/spr_player_fall2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"300abc62-eb9b-4309-9f56-e8293cceaaf5","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7d18dcdb-3489-44d3-98f1-2aee16b4de3d","path":"sprites/spr_player_fall2/spr_player_fall2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"4e63c209-230d-4830-915f-20df6e62ebe9","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a8a4d65b-0a7d-4351-8913-e34cbc6c73b7","path":"sprites/spr_player_fall2/spr_player_fall2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"35353dd8-eb03-48c4-837a-78d9e759d2a2","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

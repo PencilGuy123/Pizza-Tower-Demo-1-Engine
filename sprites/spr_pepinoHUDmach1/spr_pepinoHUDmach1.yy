@@ -2,10 +2,10 @@
   "$GMSprite":"",
   "%Name":"spr_pepinoHUDmach1",
   "bboxMode":0,
-  "bbox_bottom":146,
-  "bbox_left":35,
-  "bbox_right":119,
-  "bbox_top":22,
+  "bbox_bottom":136,
+  "bbox_left":45,
+  "bbox_right":123,
+  "bbox_top":9,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -13,8 +13,6 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"0a2b4021-bf73-41e8-ae0f-b5f5b52ec7e7","name":"0a2b4021-bf73-41e8-ae0f-b5f5b52ec7e7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ac1c6990-fdda-4b4d-a959-5d17760ace19","name":"ac1c6990-fdda-4b4d-a959-5d17760ace19","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"ef0378fa-2d21-4e65-aa14-efdc44e8de25","name":"ef0378fa-2d21-4e65-aa14-efdc44e8de25","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -51,7 +49,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":3.0,
+    "length":1.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -73,18 +71,9 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0a2b4021-bf73-41e8-ae0f-b5f5b52ec7e7","path":"sprites/spr_pepinoHUDmach1/spr_pepinoHUDmach1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"858873eb-39a3-4350-b7c6-ac9e9a994e93","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ac1c6990-fdda-4b4d-a959-5d17760ace19","path":"sprites/spr_pepinoHUDmach1/spr_pepinoHUDmach1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"5c7f8d6b-afe2-4c28-9dc6-4b1c8349ac84","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ef0378fa-2d21-4e65-aa14-efdc44e8de25","path":"sprites/spr_pepinoHUDmach1/spr_pepinoHUDmach1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"8ce43445-f6ec-4b8f-b5af-786012a36648","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
-    "visibleRange":{
-      "x":0.0,
-      "y":0.0,
-    },
+    "visibleRange":null,
     "volume":1.0,
     "xorigin":82,
     "yorigin":88,

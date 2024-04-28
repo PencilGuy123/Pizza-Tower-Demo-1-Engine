@@ -3,7 +3,7 @@
   "%Name":"normalT_parrallax2",
   "bboxMode":0,
   "bbox_bottom":999,
-  "bbox_left":27,
+  "bbox_left":16,
   "bbox_right":354,
   "bbox_top":0,
   "collisionKind":1,

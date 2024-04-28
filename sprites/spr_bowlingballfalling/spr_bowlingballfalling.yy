@@ -2,10 +2,10 @@
   "$GMSprite":"",
   "%Name":"spr_bowlingballfalling",
   "bboxMode":0,
-  "bbox_bottom":48,
+  "bbox_bottom":47,
   "bbox_left":16,
-  "bbox_right":54,
-  "bbox_top":13,
+  "bbox_right":53,
+  "bbox_top":5,
   "collisionKind":4,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -13,8 +13,6 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"","%Name":"b65f1e1d-8deb-48dd-a9de-26f761d3f8c3","name":"b65f1e1d-8deb-48dd-a9de-26f761d3f8c3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"0b16d2e5-75ec-4116-af33-ef3df42f0864","name":"0b16d2e5-75ec-4116-af33-ef3df42f0864","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"37840e13-147b-4712-9110-929d17a8903f","name":"37840e13-147b-4712-9110-929d17a8903f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -51,7 +49,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":3.0,
+    "length":1.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -73,12 +71,6 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b65f1e1d-8deb-48dd-a9de-26f761d3f8c3","path":"sprites/spr_bowlingballfalling/spr_bowlingballfalling.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"87ca02d6-fd73-4d4d-b289-5af7639752df","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0b16d2e5-75ec-4116-af33-ef3df42f0864","path":"sprites/spr_bowlingballfalling/spr_bowlingballfalling.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"11f44a58-24be-47c2-b44b-7f2f06de0e7e","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"37840e13-147b-4712-9110-929d17a8903f","path":"sprites/spr_bowlingballfalling/spr_bowlingballfalling.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b49f89fc-89ee-4f55-878d-e0ec694f0cfb","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
