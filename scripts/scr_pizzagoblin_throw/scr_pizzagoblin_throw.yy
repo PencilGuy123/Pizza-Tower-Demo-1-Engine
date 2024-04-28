@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_pizzagoblin_throw",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Enemy Scripts",
-    "path": "folders/Scripts/Enemy Scripts.yy",
+  "$GMScript":"",
+  "%Name":"scr_pizzagoblin_throw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_pizzagoblin_throw",
+  "parent":{
+    "name":"Enemy Scripts",
+    "path":"folders/Scripts/Enemy Scripts.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

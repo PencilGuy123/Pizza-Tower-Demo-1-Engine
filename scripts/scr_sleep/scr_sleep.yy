@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "scr_sleep",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "compatibility",
-    "path": "folders/Scripts/compatibility.yy",
+  "$GMScript":"",
+  "%Name":"scr_sleep",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_sleep",
+  "parent":{
+    "name":"compatibility",
+    "path":"folders/Scripts/compatibility.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
